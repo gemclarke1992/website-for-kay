@@ -1,0 +1,23 @@
+header {
+  background-color: #d60a0a;
+  width: 100%;
+  padding: 20px;
+  position: fixed;
+  display: flex;
+  gap: 20px;
+  z-index: 1000;
+  opacity: 0.9;
+}
+
+nav a {
+  background-color: #d60a0a;
+  color: #fff;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+nav a:hover {
+  background-color: #333;
+  font-weight: bold;
+  font-style: italic;
+}
