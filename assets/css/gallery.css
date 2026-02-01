@@ -24,7 +24,8 @@ header {
   background-color: #d60a0a;
   width: 100%;
   padding: 20px;
-  position: fixed;
+  position: sticky;
+  top: 0;
   display: flex;
   gap: 20px;
   z-index: 1000;
